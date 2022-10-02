@@ -1,2 +1,1 @@
-This is Java-FSD
-learning.
+This is Java-FSD.
